@@ -1,5 +1,5 @@
 # Two_way_path_finder
-This C++ program finds all two-way paths from a given start street to a destination
+This C++ program finds all two-way paths from a given start street to a destination street
 
 Input: a data file with the names of the streets 
 Output: All two way paths from a start street to a destination street
